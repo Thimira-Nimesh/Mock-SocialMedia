@@ -100,7 +100,7 @@ function Posts() {
                       deleteComment(comments.id);
                     }}
                   >
-                    Delete
+                    Delete Comment
                   </button>
                 )}
               </div>
